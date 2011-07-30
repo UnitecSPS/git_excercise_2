@@ -24,6 +24,7 @@ caracteres par aplicar estilos.
 * __Bold__: para bold utilice `**` o `__`:
 
 ```
+cualquier cosa
 **Esto es bold**
 __Y esto también__
 uuusdfaifdsif
