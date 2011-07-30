@@ -1,4 +1,4 @@
-﻿# Introducción a Markdown
+# Introducción a Markdown
 Markdown es una forma sintetizada de estilizar texto sin la complejidad
 del html. Con markdown podemos utilizar combinaciones sencillas de
 caracteres par aplicar estilos.
@@ -26,7 +26,7 @@ caracteres par aplicar estilos.
 * __Bold__: para bold utilice `**` o `__`:
 
 ```
-cualquier cosa
+tercer intento
 **Esto es bold**
 __Y esto también__
 uuusdfaifdsif
