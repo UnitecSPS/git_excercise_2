@@ -10,6 +10,7 @@ caracteres par aplicar estilos.
 # Tag H1
 ## Tag H2
 ### Tag H3
+#### Tag H4
 ```
 
 * __Listas__: para formar una lista utilice el caracter `*`:
